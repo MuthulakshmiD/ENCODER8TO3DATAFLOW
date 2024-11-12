@@ -41,7 +41,8 @@ output a0,a1,a2;
 assign a0=d1|d3|d5|d7;
 assign a1=d2|d3|d6|d7;
 assign a2=d4|d5|d6|d7;
-endmodule```
+endmodule
+```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![Screenshot 2024-11-12 061235](https://github.com/user-attachments/assets/43043307-15e5-4689-a77a-3fd6eaa9fed3)
